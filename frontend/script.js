@@ -24,3 +24,8 @@ function callForgot() {
 }
 
 submitButton.addEventListener("click", callForgot);
+
+
+function sentEmailAnimation() {
+    
+}
